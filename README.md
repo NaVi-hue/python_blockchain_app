@@ -2,16 +2,17 @@
 
 A simple tutorial for developing a blockchain application from scratch in Python.
 
-## What is blockchain? How it is implemented? And how it works?
+## Authors
 
-Please read the [step-by-step implementation tutorial](https://gist.github.com/satwikkansal/4a857cad2797b9d199547a752933a715) to get your answers :)
+Ahamed Naveed Abushali (220071601019)
+Abdul Haadi N (220071601007)
 
 ## Instructions to run
 
 Clone the project,
 
 ```sh
-$ git clone https://github.com/satwikkansal/python_blockchain_app.git
+$ git clone https://github.com/NaVi-hue/python_blockchain_app.git
 ```
 
 Install the dependencies,
